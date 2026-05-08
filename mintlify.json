@@ -1,0 +1,14 @@
+{
+  "name": "BRIGARI Docs",
+  "navigation": [
+    {
+      "group": "Inicio",
+      "pages": ["bienvenida"]
+    }
+  ],
+  "colors": {
+    "primary": "#7A2E2E",
+    "light": "#A55A52",
+    "dark": "#4B1C1C"
+  }
+}
