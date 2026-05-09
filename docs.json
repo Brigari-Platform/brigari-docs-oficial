@@ -1,12 +1,19 @@
 {
   "name": "BRIGARI Docs",
   "theme": "mint",
-  "navigation": [
-    {
-      "group": "Inicio",
-      "pages": [
-        "bienvenida"
-      ]
-    }
-  ]
+  "colors": {
+    "primary": "#000000",
+    "light": "#555555",
+    "dark": "#000000"
+  },
+  "navigation": {
+    "tabs": [
+      {
+        "name": "Inicio",
+        "pages": [
+          "bienvenida"
+        ]
+      }
+    ]
+  }
 }
