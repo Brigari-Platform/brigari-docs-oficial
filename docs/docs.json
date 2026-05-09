@@ -1,9 +1,12 @@
 {
   "name": "BRIGARI Docs",
+  "theme": "mint",
   "navigation": [
     {
       "group": "Inicio",
-      "pages": ["bienvenida"]
+      "pages": [
+        "bienvenida"
+      ]
     }
   ]
 }
