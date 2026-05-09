@@ -1,4 +1,11 @@
 {
   "name": "Brigari",
-  "theme": "mint"
+  "navigation": [
+    {
+      "group": "Guía",
+      "pages": [
+        "bienvenida"
+      ]
+    }
+  ]
 }
