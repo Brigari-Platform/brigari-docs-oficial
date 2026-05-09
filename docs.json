@@ -7,10 +7,5 @@
         "bienvenida"
       ]
     }
-  ],
-  "colors": {
-    "primary": "#000000",
-    "light": "#555555",
-    "dark": "#000000"
-  }
+  ]
 }
