@@ -7,11 +7,6 @@
     "dark": "#4B1C1C"
   },
   "navigation": [
-    {
-      "group": "Inicio",
-      "pages": [
-        "bienvenida"
-      ]
-    }
+    "bienvenida"
   ]
 }
