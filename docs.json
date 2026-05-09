@@ -3,7 +3,9 @@
   "navigation": [
     {
       "group": "Guía",
-      "pages": ["bienvenida"]
+      "pages": [
+        "bienvenida"
+      ]
     }
   ]
 }
