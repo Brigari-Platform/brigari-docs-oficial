@@ -1,17 +1,14 @@
 {
-  "name": "Brigari",
-  "theme": "mint",
-  "colors": {
-    "primary": "#0070f3",
-    "light": "#3291ff",
-    "dark": "#003270"
-  },
+  "name": "BRIGARI Docs",
   "navigation": [
     {
-      "group": "Guía",
-      "pages": [
-        "bienvenida"
-      ]
+      "group": "Inicio",
+      "pages": ["bienvenida"]
     }
-  ]
+  ],
+  "colors": {
+    "primary": "#7A2E2E",
+    "light": "#A55A52",
+    "dark": "#4B1C1C"
+  }
 }
