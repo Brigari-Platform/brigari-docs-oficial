@@ -1,14 +1,9 @@
 {
-  "name": "BRIGARI Docs",
+  "name": "Brigari",
   "navigation": [
     {
-      "group": "Inicio",
+      "group": "Guía",
       "pages": ["bienvenida"]
     }
-  ],
-  "colors": {
-    "primary": "#7A2E2E",
-    "light": "#A55A52",
-    "dark": "#4B1C1C"
-  }
+  ]
 }
