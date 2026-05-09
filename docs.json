@@ -1,0 +1,9 @@
+{
+  "name": "BRIGARI",
+  "navigation": [
+    {
+      "group": "Docs",
+      "pages": ["bienvenida"]
+    }
+  ]
+}
