@@ -6,12 +6,12 @@
     "light": "#A55A52",
     "dark": "#4B1C1C"
   },
-  "navigation": {
-    "tabs": [
-      {
-        "group": "Inicio",
-        "pages": ["bienvenida"]
-      }
-    ]
-  }
+  "navigation": [
+    {
+      "group": "Inicio",
+      "pages": [
+        "bienvenida"
+      ]
+    }
+  ]
 }
