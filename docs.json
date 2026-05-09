@@ -1,10 +1,13 @@
 {
   "name": "BRIGARI Docs",
+  "theme": "linden",
   "navigation": {
     "tabs": [
       {
         "name": "Inicio",
-        "pages": ["bienvenida"]
+        "pages": [
+          "bienvenida"
+        ]
       }
     ]
   },
